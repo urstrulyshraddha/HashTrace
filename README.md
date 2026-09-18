@@ -1,7 +1,7 @@
 # HashTrace (`hace`) 🔍
 
 [![PyPI version](https://img.shields.io/pypi/v/hashtrace.svg)](https://pypi.org/project/hashtrace/)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python >=3.8](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A dependency-free digital forensics and file integrity CLI. 
