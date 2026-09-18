@@ -1,0 +1,13 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Local test artifacts (won't be pushed to GitHub)
+sample.txt
+sample_copy.txt
+report.json
