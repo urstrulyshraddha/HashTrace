@@ -19,7 +19,7 @@ pip install hashtrace
 
 ### Method 2: Install directly from GitHub
 ```bash
-pip install git+[https://github.com/your-username/hashtrace.git](https://github.com/your-username/hashtrace.git)
+pip install git+[https://github.com/urstrulyshraddha/HashTrace.git](https://github.com/urstrulyshraddha/HashTrace.git)
 ```
 
 > **Note:** Once installed, you can invoke the tool using either the full command **`hashtrace`** or the shortcut alias **`hace`**.
