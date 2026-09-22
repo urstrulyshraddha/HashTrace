@@ -2,7 +2,9 @@ from __future__ import annotations
 
 """
 HashTrace - Digital Forensics File Integrity & Triage CLI
-...
+Calculates multi-algorithm cryptographic digests, verifies file integrity,
+and generates forensic acquisition reports.
+"""
 
 import argparse
 import datetime
